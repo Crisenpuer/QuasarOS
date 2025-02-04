@@ -1,1 +1,0 @@
-Pozdrowienia z pliku test.txt!
